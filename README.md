@@ -1,8 +1,16 @@
-How to run the code?
+#BankMarketing
+
+##Data Set Information:
+
+The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
+
+The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
+
+##How to run the code?
 
 Download the KNN_BankMarketing.ipynb file,CSV file and run in jupiter notebook or Google Colab by the uploading BankMarketing data.
 
-How to use Google Colab?
+##How to use Google Colab?
 
 If you want to create a machine learning model but say you don’t have a computer that can take the workload, Google Colab is the platform for you. Even if you have a GPU or a good computer creating a local environment with anaconda and installing packages and resolving installation issues are a hassle.
 Colaboratory is a free Jupyter notebook environment provided by Google where you can use free GPUs and TPUs which can solve all these issues.
