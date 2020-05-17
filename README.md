@@ -21,6 +21,7 @@ Else you can create a new Jupyter notebook by clicking New Python3 Notebook or N
 On creating a new notebook, it will create a Jupyter notebook with Untitled0.ipynb and save it to your google drive in a folder named Colab Notebooks. 
 Now as it is essentially a Jupyter notebook, all commands of Jupyter notebooks will work here. 
 Though, you can refer the details in Getting started with Jupyter Notebook.
+
 Please ensure you connect the google colab before executing the cells
 
 
